@@ -1,1 +1,25 @@
 /*  your css code here. If applicable */
+#outer{
+	height: 300px;
+	width: 300px;
+	background: #ffa500;
+	border-radius: 50%;
+	border: 25px solid #ff0000;
+
+}
+#middle{
+	height: 200px;
+	width: 200px;
+	background: #008000;
+	border-radius: 50%;
+	border: 25px solid #ffff00;
+	margin: 25px;
+}
+#inner{
+	height: 100px;
+	width: 100px;
+	background: #800080;
+	border-radius: 50%;
+	border: 25px solid #0000ff;
+	margin: 25px;
+}
